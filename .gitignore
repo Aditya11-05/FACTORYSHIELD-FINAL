@@ -1,0 +1,10 @@
+backend/models/*.pkl
+backend/data/ai4i_dataset.csv
+backend/.env
+frontend/.env
+node_modules/
+__pycache__/
+*.pyc
+.venv/
+venv/
+frontend/dist/
