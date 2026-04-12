@@ -8,3 +8,5 @@ __pycache__/
 .venv/
 venv/
 frontend/dist/
+backend/venv/
+*.dylib
