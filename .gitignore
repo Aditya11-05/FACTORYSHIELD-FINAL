@@ -10,3 +10,4 @@ venv/
 frontend/dist/
 backend/venv/
 *.dylib
+backend/venv/
